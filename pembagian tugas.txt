@@ -1,0 +1,13 @@
+- Deskripsi Proyek		: Noor Azizah
+- Fungsional dan Non Fungsional	: Nindita + Yahya + Azizah
+- Activity Diagram		: Nindita
+- Usecase Diagram		: Noor Azizah + Yahya
+- Usecase Description		: Noor Azizah (cek info + edit data)
+				  Nindita (cek delivery + tambah data)
+				  Yahya (cek cucian anda + hapus data)
+- Class Diagram			: Nindita
+- Sequence Diagram		: Yahya
+- Data Design			: Nindita
+- Table Description		: Noor Azizah
+- UI Design			: Yahya
+					
